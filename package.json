@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "invariant": "^2.2.4",
-    "minimatch": "^3.0.4",
+    "minimatch": "lopis/minimatch",
     "prop-types": "^15.6.1",
     "react-test-renderer": "^16.4.0",
     "xstate": "^3.3.0"
